@@ -11,3 +11,6 @@ KWM-R30882CWB-Y
 #Pinout
 Thank you to Adafruit's Carter Nelson for creating this pin diagram
 ![Pin Diagram](Luckylight_KMW-R30882CWB-Y.png)
+
+#Corner Pins
+![Corner Pins Photograph](photo_corner_pins.png)

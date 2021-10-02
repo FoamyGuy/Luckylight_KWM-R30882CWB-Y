@@ -1,0 +1,19 @@
+Luckylight KWM-R30882CWB-Y
+
+pin16 = row1
+pin15 = row2
+pin14 = row3
+pin13 = row4
+pin5 = row5
+pin6 = row6
+pin7 = row7
+pin8 = row8
+
+pin1 = col1
+pin2 = col2
+pin3 = col3
+pin4 = col4
+pin12 = col5
+pin11 = col6
+pin10 = col7
+pin9 = col8
