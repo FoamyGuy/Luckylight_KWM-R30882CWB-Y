@@ -1,5 +1,7 @@
 Luckylight KWM-R30882CWB-Y
 
+Looking down at the face of the matrix, with the edge that has text on it facing the top side. Row 1, Col 1 is the LED in the top left corner.
+
 pin16 = row1
 pin15 = row2
 pin14 = row3
